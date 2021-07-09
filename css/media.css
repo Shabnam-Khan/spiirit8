@@ -1,0 +1,379 @@
+@media(min-width:1200px) and (max-width:1399.98px){
+    .banner-text p {
+        line-height: 28px;
+    }
+    .about-image img{
+        max-width: 100%;
+        height: auto;
+    }
+    #team .slick-dots {
+        left: 46%;
+    }
+    #clients .slick-dots {
+        left: 46%;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199.98px){
+    .banner-text p {
+        line-height: 28px;
+    }
+    .about-image img{
+        max-width: 100%;
+        height: auto;
+    }
+    #clients .slick-dots {
+        left: 43%;
+    }
+    .brand {
+        padding-left: 45px;
+    }
+    .overlay h4 {
+        padding-top: 55px;
+    }
+    #team .slick-dots {
+        left: 45%;
+    }
+    #testimonials .slick-dots {
+        left: 42%;
+    }
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+    .navbar-toggler i{
+        color: #fff;
+        margin-top: 30px;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-nav{
+        text-align: left;
+        background-color: #222;
+        padding-bottom: 25px;
+        margin-top: 10px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:before{
+        width: 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:after{
+        width: 0;
+    }
+    .navbar-nav{
+        text-align: center;
+        background-color: #222;
+        padding-bottom: 25px;
+        margin-top: 10px;
+    }
+    .banner-content {
+        height: 75vh;
+    }
+    .slider-item {
+        height: 75vh;
+    }
+    .banner-text p {
+        line-height: 28px;
+    }
+    #banner .slick-dots {
+        left: 48%;
+        transform: translateX(-48%);
+    }
+    .about-details{
+        padding-top: 100px;
+    }
+    .about-details p {
+        max-width: none;
+    }
+    #team .slick-dots {
+        left: 44%;
+    }
+    .brand {
+        padding-left: 45px;
+    }
+    #clients .slick-dots {
+        left: 40%;
+    }
+    .port-left h5 {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .end {
+        justify-content: center;
+    }
+    .overlay h4 {
+        padding-top: 95px;
+    }
+    #testimonials .slick-dots {
+        left: 41%;
+    }
+    .form-space {
+        padding-bottom: 18px;
+    }
+}
+
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar-toggler i{
+        color: #fff;
+        margin-top: 30px;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-nav{
+        text-align: center;
+        background-color: #222;
+        padding-bottom: 25px;
+        margin-top: 10px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:before{
+        width: 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:after{
+        width: 0;
+    }
+    .banner-content {
+        height: 60vh;
+    }
+    .banner-text h1 {
+        font-size: 25px;
+    }
+    .banner-text h1 span {
+        font-size: 25px;
+    }
+    .banner-text p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .banner-text p span {
+        font-size: 20px;
+    }
+    .slider-item {
+        height: 60vh;
+    }
+    #banner .slick-dots {
+        left: 45%;
+        transform: translateX(-43%);
+        -webkit-transform: translateX(-43%);
+        -moz-transform: translateX(-43%);
+        -ms-transform: translateX(-43%);
+        -o-transform: translateX(-43%);
+    }
+    .about-details{
+        padding-top: 100px;
+    }
+    .about-details h4 {
+        font-size: 18px;
+    }
+    .about-details h3 {
+        font-size: 24px;
+    }
+    .about-details h3 span{
+        font-size: 24px;
+    }
+    .about-details p {
+        font-size: 16px;
+    }
+    .team-heading h3 {
+        font-size: 24px;
+    }
+    #team .slick-dots {
+        left: 42%;
+    }
+    .services-heading h3{
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .services-heading h3 span{
+        font-size: 24px;
+    }
+    .services-content h3 {
+        font-size: 22px;
+    }
+    .clients-heading h3 {
+        font-size: 24px;
+    }
+    #clients .slick-dots {
+        left: 37%;
+    }
+    #portfolio {
+        padding-bottom: 30px;
+    }
+    .portfolio-heading h3{
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .port-left h5 {
+        font-size: 16px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    #portfolio button {
+        font-size: 16px;
+    }
+    .end {
+        justify-content: center;
+    }
+    .testimonials-heading h3{
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .feedback h4 {
+        font-size: 16px;
+    }
+    #testimonials .slick-dots {
+        left: 38%;
+    }
+    #contact {
+        padding-bottom: 30px;
+    }
+    .contact-heading h3{
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .contact-heading p {
+        padding-bottom: 20px;
+    }
+    .form-space {
+        padding-bottom: 18px;
+    }
+    .copyright-left p {
+        padding-top: 25px;
+        line-height: 17px;
+    }
+}
+
+@media(max-width:575.98px){
+    .navbar-toggler i{
+        color: #fff;
+        margin-top: 30px;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-nav{
+        text-align: left;
+        background-color: #222;
+        padding-bottom: 25px;
+        margin-top: 10px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:before{
+        width: 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:after{
+        width: 0;
+    }
+    .banner-content {
+        height: 60vh;
+    }
+    .banner-text h1 {
+        font-size: 25px;
+    }
+    .banner-text h1 span {
+        font-size: 25px;
+    }
+    .banner-text p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .banner-text p span {
+        font-size: 20px;
+    }
+    .slider-item {
+        height: 60vh;
+    }
+    #banner .slick-dots {
+        left: 43%;
+        transform: translateX(-43%);
+        -webkit-transform: translateX(-43%);
+        -moz-transform: translateX(-43%);
+        -ms-transform: translateX(-43%);
+        -o-transform: translateX(-43%);
+    }
+    .about-image img{
+        height: 239px;
+    }
+    .about-details{
+        padding-top: 50px;
+    }
+    .about-details h4 {
+        font-size: 18px;
+    }
+    .about-details h3 {
+        font-size: 24px;
+    }
+    .about-details h3 span{
+        font-size: 24px;
+    }
+    .about-details p {
+        font-size: 16px;
+    }
+    .team-heading h3 {
+        font-size: 24px;
+    }
+    #team .slick-dots {
+        left: 29%;
+    }
+    .services-heading h3{
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .services-heading h3 span{
+        font-size: 24px;
+    }
+    .services-content h3 {
+        font-size: 22px;
+    }
+    .clients-heading h3 {
+        font-size: 24px;
+    }
+    #clients .slick-dots {
+        left: 27%;
+    }
+    #portfolio {
+        padding-bottom: 30px;
+    }
+    .portfolio-heading h3{
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .port-left h5 {
+        font-size: 16px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    #portfolio button {
+        font-size: 16px;
+    }
+    .end {
+        justify-content: center;
+    }
+    .nav-tabs .nav-link {
+        line-height: 26px;
+    }
+    .testimonials-heading h3{
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .feedback h4 {
+        font-size: 16px;
+    }
+    #testimonials .slick-dots {
+        left: 28%;
+    }
+    #contact {
+        padding-bottom: 30px;
+    }
+    .contact-heading h3{
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .contact-heading p {
+        padding-bottom: 20px;
+    }
+    .form-space {
+        padding-bottom: 18px;
+    }
+    .copyright-left p {
+        text-align: center;
+    }
+}
